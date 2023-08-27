@@ -1,6 +1,8 @@
 ### Welcome to my GitHub page👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanilaBolshakov1999)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://github.com/DanilaBolshakov1999)
 
 <!--
 **DanilaBolshakov1999/DanilaBolshakov1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
