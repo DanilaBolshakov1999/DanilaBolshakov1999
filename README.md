@@ -1,6 +1,5 @@
-### Welcome to my GitHub page👋
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanilaBolshakov1999)](https://github.com/ryo-ma/github-profile-trophy)
+### Greetings, Danila! 
+### This is my GitHub page👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://github.com/DanilaBolshakov1999)
 
