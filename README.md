@@ -1,5 +1,6 @@
 ### Welcome to my GitHub page👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanilaBolshakov&theme=solarized_dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://git.io/streak-stats)
 
 <!--
 **DanilaBolshakov1999/DanilaBolshakov1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
