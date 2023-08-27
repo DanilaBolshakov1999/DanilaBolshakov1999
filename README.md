@@ -1,5 +1,5 @@
-### Greetings, Danila! 
-### This is my GitHub page👋
+### Greetings, Danila!👋
+### This is my GitHub page!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://github.com/DanilaBolshakov1999)
 
