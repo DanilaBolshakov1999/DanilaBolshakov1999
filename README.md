@@ -1,7 +1,8 @@
 ### Greetings, Danila! 
 ### This is my GitHub page👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://github.com/DanilaBolshakov1999)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBolshakov1999&layout=compact)](https://github.com/DanilaBolshakov1999)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBolshakov1999)](https://github.com/DanilaBolshakov1999)
 
