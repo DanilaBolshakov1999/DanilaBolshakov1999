@@ -1,8 +1,6 @@
 ### Greetings, Danila!👋
 ### This is my GitHub page!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Always+looking+for+the+best)](https://git.io/typing-svg)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanilaBolshakov1999)](https://github.com/DanilaBolshakov1999)
 
 ### My prestige of tongues 💫
