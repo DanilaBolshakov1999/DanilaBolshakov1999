@@ -14,9 +14,6 @@
   - https://github.com/DanilaBolshakov1999/BombaApp
     
   - https://github.com/Demogorgonius/Rainbow
-    
-## Certificates
- <img src="https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Certificate%20Participant.pdf" width="240" height="180">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBolshakov1999&layout=compact)](https://github.com/DanilaBolshakov1999)
 <!--
