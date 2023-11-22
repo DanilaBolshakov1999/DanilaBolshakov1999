@@ -18,6 +18,6 @@
   - https://github.com/Demogorgonius/Rainbow
 
 ## My portfolio
- - https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Certificate.pdf
- - https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Certificate%20Participant.pdf
- - https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Резюме%20iOS-Developer%20Большаков%20Данила.pdf
+ - [Certificate SwiftBook](https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Certificate.pdf)
+ - [Certificate Swift Marathon](https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Certificate%20Participant.pdf)
+ - [CV iOS-Developer Danila Bolshakov](https://github.com/DanilaBolshakov1999/DanilaBolshakov1999/blob/main/Резюме%20iOS-Developer%20Большаков%20Данила.pdf)
