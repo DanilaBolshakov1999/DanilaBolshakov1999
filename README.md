@@ -1,5 +1,5 @@
 
-<h3 align="center">Danila Bolshakov - iOS Developer</h3>
+<h3 align="center">Danila Bolshakov - Developer</h3>
 
 ## Skills and Experience
 *  iOS SDK / SOLID / MVP / UIKit / JSON / GitFlow
